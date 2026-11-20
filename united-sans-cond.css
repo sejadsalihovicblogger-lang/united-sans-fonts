@@ -1,0 +1,98 @@
+
+/* =====================================
+   UNITED SANS - SEJAD SALIHOVIC BLOG
+   GitHub Pages Web Fonts
+===================================== */
+
+@font-face {
+  font-family: "United Sans Cond";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Heavy.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond Thin";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond Stencil";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Stencil.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* OLD FONT NAME COMPATIBILITY */
+
+@font-face {
+  font-family: "United Sans Reg Black";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Black.woff") format("woff");
+  font-weight: 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans SmCd Hv";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Heavy.woff") format("woff");
+  font-weight: 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UnitedSansReg-Heavy";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Heavy.woff") format("woff");
+  font-weight: 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond Heavy";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Heavy.woff") format("woff");
+  font-weight: 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "United Sans Cond Black";
+  src: url("https://sejadsalihovicblogger-lang.github.io/united-sans-fonts/UnitedSansCond-Black.woff") format("woff");
+  font-weight: 900;
+  font-display: swap;
+}
