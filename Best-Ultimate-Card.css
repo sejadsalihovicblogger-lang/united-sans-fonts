@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+     [ Best Ultimate Card ]
+-----------------------------------------------------------------*/
+.fifa-sali-container{text-align:center; }
+.fifa-sali-open-btn {border-radius: 4px;width: fit-content; padding: 2px 1px; color: #fff; font-size: var(--font-H2); font-weight: 400; cursor: pointer; transition: .3s; font-family: var(--font-jedan); user-select: none; }
+.fifa-sali-open-btn:hover{transform:scale(1.1);background: var(--color-6); }
+.fifa-sali-card{width:300px; height:460px; position:relative; margin:auto; margin-top:10px; transform:scale(0); transition:.6s ease;}
+.fifa-sali-card.show{transform:scale(1); }
+.fifa-sali-card-bg{width:100%; height:100%; }
+.fifa-sali-rating{position: absolute; top: 50px; left: 45px; font-size: 42px; font-weight: 900; color: #46390c; }
+.fifa-sali-position{position: absolute; top: 100px; left: 48px; font-weight: bold; }
+.fifa-sali-flag{position: absolute; width: 40px; left: 45px; top: 140px; }
+.fifa-sali-club{position: absolute; width: 45px; left: 42px; top: 180px; }
+.fifa-sali-player{position: absolute; width: 180px; top: 38px; right: 28px; }
+.fifa-sali-name{position: absolute; width: 100%; text-align: center; top: 240px; font-size: 30px; font-weight: 900; color: #46390c; }
+.fifa-sali-stats{    position: absolute; bottom: 50px; width: 100%; display: grid; grid-template-columns: repeat(2, 1fr); row-gap: 13px; padding: 0px 60px; font-size: 20px; justify-items: center; color: #46390c; }
+.fifa-sali-stats span{font-weight:900; }
+#fifa-sali-openBtn{transition: opacity .5s; }
+.fifa-sali-modal{display:none; position:fixed; inset:0; background:rgba(0,0,0,.8); justify-content:center; align-items:center; z-index:9999; }
+.fifa-sali-modal.show{display:flex; }
+.fifa-sali-modal-content{position:relative; animation:pop .3s ease; }
+.fifa-sali-close{position:absolute; top:-15px; right:-15px; width:35px; height:35px; border-radius:50%; background:#fff; color:#46390c; font-size:26px; line-height:35px; text-align:center; cursor:pointer; font-weight:bold; user-select:none; }
+@keyframes pop{
+    from{transform:scale(.7); opacity:0; }
+    to{transform:scale(1); opacity:1; }
+}
+.card-23-create-gold .card-23-create-split {border-color: #9b8133; }
+.card-23-create-name-split {    height: 1px; width: 170px; left: 65px; border-bottom: 1px solid; position: absolute; top: 284px; }
+.card-23-create-split {z-index: 11; }
